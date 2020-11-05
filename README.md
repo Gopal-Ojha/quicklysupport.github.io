@@ -1,2 +1,0 @@
-# quicklysupport.github.io
-website
